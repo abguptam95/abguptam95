@@ -31,7 +31,9 @@ Apart from my research on Artificial intelligence , I enjoy listening music 🎧
 
 &nbsp;
 <img align="left" height = "200px" width = "200px" alt="GIF" src = "https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif">
-
+<br>
+<br>
+<br>
 <p align="center"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"  width="40" height="40"/>
  <img src= "https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python"  width="40" height="40"/>
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="C"  width="40" height="40"/>
