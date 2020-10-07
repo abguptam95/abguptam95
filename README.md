@@ -1,4 +1,4 @@
-### Hey 👋, I'm [abguptam95!](https://github.com/abguptam95)
+### Hey 👋, I'm [Abhinav Gupta!](https://github.com/abguptam95)
 
 
 <a href="https://www.linkedin.com/in/abguptam/">
