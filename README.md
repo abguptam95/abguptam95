@@ -14,7 +14,7 @@
 <br />
 
 Hi, I'm Abhinav Gupta, a Full Stack Developer   🚀 from India, Currently working  in 🙍🏽‍♂️ [@Cognizant](https://www.cognizant.com/) and developing Microservices products.
-Apart from my research on Artificial intelligence , I enjoy listening music 🎧 and traveling 🏖️ and playing X-Boxgames 🎮.
+Apart from my research on Artificial intelligence , I enjoy listening music 🎧 and traveling 🏖️ and playing games 🎮.
 
 "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
 
