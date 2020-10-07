@@ -27,8 +27,8 @@ Apart from my research on Artificial intelligence , I enjoy listening music 🎧
 - ⚡️  Techinical Blogger [Linkedin](https://www.linkedin.com/in/abguptam/)
 - 🤝 Certified Fullstack Developer from Udemy.
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: stackfulldeveloper@gmail.com
 - 💻 Recent projects in which I have contributed in my [gituhb](https://github.com/abguptam95)
+- 📫 How to reach me: stackfulldeveloper@gmail.com
 &nbsp;
 <img align="left" height = "200px" width = "200px" alt="GIF" src = "https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif">
 <br>
