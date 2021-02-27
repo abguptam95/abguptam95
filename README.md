@@ -39,7 +39,8 @@ Apart from my research on Artificial intelligence , I enjoy listening music 🎧
  <img src= "https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python"  width="40" height="40"/>
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="C"  width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="40" height="40"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"  width="40" height="40"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"/>  
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"  width="40" height="40"/>
  <img src = "https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" alt="nodejs"  width="40" height="40"/>
   <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" alt="mongodb" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass"  width="40" height="40"/>
