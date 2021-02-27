@@ -38,8 +38,7 @@ Apart from my research on Artificial intelligence , I enjoy listening music 🎧
 <p align="center"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"  width="40" height="40"/>
  <img src= "https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python"  width="40" height="40"/>
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="C"  width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="40" height="40"/>
- 
+
 <br>
 <br>
 
