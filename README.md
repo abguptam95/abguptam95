@@ -24,6 +24,7 @@ Apart from my research on Artificial intelligence , I enjoy listening music 🎧
 **Talking about Experiences/Achievements:**
 
 - 🥇 Former  Fullstack Developer. from IBM 👨🏽‍💻 [@IBM](https://www.ibm.com/in-en)
+- 🥇 Former  Fullstack Developer. from Cognizant 👨🏽‍💻 [@Cognizant](https://www.cognizant.com/)
 - ⚡️  Techinical Blogger [Linkedin](https://www.linkedin.com/in/abguptam/)
 - 🤝 Certified Fullstack Developer from Udemy.
 - 💬 Ask me about anything, I am happy to help
